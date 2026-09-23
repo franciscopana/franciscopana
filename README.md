@@ -21,12 +21,12 @@ These are the courses I enjoyed the most, and the projects that came out of them
 
 ## 🧩 Also worth a look
 
-| | Project | What it's about |
-|:-:|:--|:--|
-| 💬 | [**Politeness Classification**](https://github.com/franciscopana/M.IA_Natural-Language-Processing)<br>🤖 MSc · Natural Language Processing | Classifying text into four levels of politeness, evolving from classical ML (TF-IDF, Word2Vec, SVM) to fine-tuned Transformers (BERT, RoBERTa), LoRA and LLM prompting |
-| 🎯 | [**Maze Navigation with Deep RL**](https://github.com/franciscopana/M.IA_Topics-Intelligent-Robotics_2)<br>🤖 MSc · Intelligent Robotics | An agent that tilts a platform to roll a ball through generated mazes in Unity ML-Agents, comparing a hierarchical approach (A* planner + PPO controller) with end-to-end learning |
-| 🚆 | [**Railway Network Management**](https://github.com/franciscopana/L.EIC_Desenho-Algoritmos_1)<br>🎓 BSc · Algorithm Design | A decision-support tool for the Portuguese railway, modeled as a flow network. It uses Edmonds-Karp max-flow to measure train capacity between stations, ranks municipalities and districts for investment, finds cheapest routes with Dijkstra, and simulates line failures to find the most affected stations |
-| ✈️ | [**Flight Network Explorer**](https://github.com/franciscopana/L.EIC_Algoritmos-Estruturas-Dados_2)<br>🎓 BSc · Algorithms & Data Structures | The world's air network (~3,000 airports, ~63,000 flights) as a graph. BFS finds routes with the fewest connections, ranked by real distance (haversine), from airport codes, cities or GPS coordinates, with optional airline filters and reachability queries |
+| Course | Project | What it's about |
+|:--|:--|:--|
+| Natural Language Processing (MSc.) | 💬 [**Politeness Classification**](https://github.com/franciscopana/M.IA_Natural-Language-Processing) | Classifying text into four politeness levels, from classical ML (TF-IDF, SVM) to fine-tuned Transformers (BERT, RoBERTa) and LLM prompting |
+| Intelligent Robotics (MSc.) | 🎯 [**Maze Navigation with Deep RL**](https://github.com/franciscopana/M.IA_Topics-Intelligent-Robotics_2) | An agent tilts a platform to guide a ball through mazes in Unity ML-Agents, comparing a hierarchical approach (A* + PPO) with end-to-end learning |
+| Algorithm Design (BSc.) | 🚆 [**Railway Network Management**](https://github.com/franciscopana/L.EIC_Desenho-Algoritmos_1) | A decision-support tool for the Portuguese railway, using max-flow to measure capacity, Dijkstra for cheapest routes, and failure simulations to find the most affected stations |
+| Algorithms & Data Structures (BSc.) | ✈️ [**Flight Network Explorer**](https://github.com/franciscopana/L.EIC_Algoritmos-Estruturas-Dados_2) | The world's air network (~3,000 airports) as a graph, using BFS to find routes with the fewest connections, with airline filters and reachability queries |
 
 > 💡 The two bachelor projects are where my interest in algorithmic decision making started: turning a real network into a graph and letting algorithms answer "where should we invest?" or "what's the best way to get there?"
 
